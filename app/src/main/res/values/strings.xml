@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Expandable ListView</string>
+
+    <string-array name="title_names">
+
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+
+    </string-array>
+
+    <string-array name="details_names">
+
+        <item>Bangladesh is a b country. It is my mother land</item>
+
+        <item>India is a sweet and cute country. but is some population is Hindu and others relisunes.</item>
+
+        <item>Pakistan is a muslim country. It is bangladesh second part.</item>
+
+        <item>Bangladesh is a b country. It is my mother land</item>
+
+        <item>India is a sweet and cute country. but is some population is Hindu and others relisunes.</item>
+
+        <item>Pakistan is a muslim country. It is bangladesh second part.</item>
+
+    </string-array>
+
+</resources>
